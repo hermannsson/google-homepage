@@ -1,0 +1,35 @@
+
+#mainWrapper {
+
+
+
+}
+
+img {
+
+  margin: 0 auto;
+  clear: both;
+
+  position: fixed;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -30%);
+
+  height: 200px;
+
+  z-index: -1;
+
+}
+
+form {
+
+  margin: 0 auto;
+  clear: both;
+
+  position: fixed;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -55%);
+
+  z-index: 2;
+}
